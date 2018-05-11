@@ -1,0 +1,32 @@
+body {	background-color: green;
+	color: white;
+	font-family: Arial;
+	background-image: url(plants.jpg);}
+
+h1 {	background-color: white;
+	color: white;
+	line-height: 200%;
+	text-indent: 1em;
+	margin-left: 8em;
+	margin-right: 8em;}
+
+h3 {	padding: 1em; }
+
+nav {	background-color: #336633;
+	line-height: 200%;
+	text-indent: 1em;}
+
+nav a {	text-decoration: none;}
+
+.div2 { width: 300px }
+
+nav a:link {	color: white;}
+nav a:visited {	color: white;}
+nav a:hover {	color: white;}
+
+#container {	margin-left: 17em;
+		margin-right: 17em;
+		margin-top: 2em;
+		margin-bottom: 2em;
+		padding: 2em;
+		background-color: green;}
